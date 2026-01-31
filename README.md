@@ -13,6 +13,7 @@ Credit card fraud is a significant concern in the financial industry. With milli
 
 ## Dataset
 Link: http://kaggle.com/datasets/mlg-ulb/creditcardfraud
+Due to the huge amount of data, it was not possible to upload the dataset file in csv, so I have compressed it into a zip file.
 The dataset contains 284,807 credit card transactions with the following characteristics:
 
 - **Total Transactions**: 284,807
@@ -84,7 +85,7 @@ Random Forest demonstrated the best overall performance with highest feature imp
 ## Files
 
 - `project.ipynb`: Complete Jupyter notebook with all code and analysis
-- `creditcard.csv`: Source dataset
+- `creditcard.csv.zip`: Compressed source dataset
 - `README.md`: This file
 
 ## Conclusion
