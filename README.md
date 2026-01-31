@@ -12,7 +12,7 @@ A machine learning project to detect fraudulent credit card transactions using t
 Credit card fraud is a significant concern in the financial industry. With millions of transactions occurring daily, identifying fraudulent activities manually is impractical. This project aims to build a machine learning model that can automatically classify transactions as legitimate or fraudulent.
 
 ## Dataset
-
+Link: http://kaggle.com/datasets/mlg-ulb/creditcardfraud
 The dataset contains 284,807 credit card transactions with the following characteristics:
 
 - **Total Transactions**: 284,807
