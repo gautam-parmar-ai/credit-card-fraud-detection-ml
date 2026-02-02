@@ -58,7 +58,7 @@ The models were evaluated on the undersampled dataset. Key findings:
 |-------|----------|-----------|--------|----------|-----|
 | Logistic Regression | High | Good | Good | Good | ~0.98 |
 | Random Forest | High | High | High | High | ~0.99 |
-| SVM | High | Good | Good | Good | ~0.98 |
+| SVM | High | Good | Good | Good | ~0.56 |
 
 Random Forest demonstrated the best overall performance with highest feature importance analysis capability.
 
