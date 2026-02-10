@@ -45,10 +45,6 @@ The dataset is highly imbalanced, with fraudulent transactions making up less th
 - ROC-AUC Score
 - Confusion Matrix
 
-### Validation Strategy
-
-- 5-Fold Stratified Cross-Validation
-- 80-20 Train-Test Split with stratification
 
 ## Results Summary
 
